@@ -1,7 +1,7 @@
 //SPDX-License-Identifier: GPL-3.0
 pragma solidity ^0.8.16;
 
-contract requirePermission {
+contract RequirePermission {
     mapping(uint256 => Person) public people;
     uint256 peoplecount = 0;
 
