@@ -11,7 +11,6 @@ contract OpenAfter {
         _;
     }
 
-  
     struct Person {
         uint256 peoplecount;
         string name;
