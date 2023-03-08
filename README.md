@@ -1,2 +1,2 @@
-# my-smart-contracts
-Made in Solidity~
+# Solidity Projects
+
